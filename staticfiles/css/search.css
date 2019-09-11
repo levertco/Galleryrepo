@@ -1,0 +1,82 @@
+* {
+    overflow-x: hidden;
+    font-family: Maven Pro;
+}
+
+.image {
+    max-width: 100%;
+    cursor: pointer;
+}
+
+.grid {
+    display: grid;
+    grid-gap: 10px;
+    grid-template-columns: repeat(auto-fill, minmax(250px, 10fr));
+}
+.container-fluid {
+    margin-top: 70px;
+}
+.grid-item {
+    width: 33.3333%;
+    padding: 10px;
+}
+
+nav {
+    background: #101010;
+    margin-bottom: 15px;
+    border: none;
+    transition: background 0.8s
+}
+.navbar {
+    margin-bottom: 10%;
+}
+.landing {
+    background: url(../../media/images/back.jpeg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 500px;
+    background-attachment: fixed;
+    width: 100%;
+}
+
+nav a {
+    color: white;
+    transition: background 0.8s;
+}
+
+.navbar-brand {
+    color: white;
+    font-size: 20px;
+}
+
+.form-container {
+    margin-left: 28%;
+    margin-top: 16%;
+}
+
+.back-form .form-control {
+    width: 60%;
+    height: 50px;
+    display: inline-block;
+}
+
+#search-btn {
+    height: 50px;
+    display: flex;
+    align-items: center;
+    display: inline-block;
+}
+
+.under {
+    color: white;
+    margin: 1%;
+}
+
+.navbar-right {
+    display: inline-block
+}
+
+.navbar-form .form-control {
+    height: 33px;
+}
