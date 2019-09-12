@@ -74,3 +74,11 @@ $ Install django==1.11
 
 ### Known Bugs
 No known bugs detected.
+
+### Live link
+You can view the live site [here](https://galleryrepo.herokuapp.com/)
+
+
+
+
+
