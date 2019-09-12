@@ -56,3 +56,13 @@ $ Install django==1.11
 ### Installation
 1. To access this application on your command line, you need to clone it 
 `git clone https://github.com/levertco/Galleryrepo.git`
+
+2. Create a requirements.txt in the root folder and copy the requirements above then install them with this command.
+
+`pip install -r requirements.txt`
+3. Create a .env file
+
+
+
+
+
