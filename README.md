@@ -64,3 +64,12 @@ $ Install django==1.11
 
 4. You can then run the server with:
 `python3.8 manage.py runserver`
+
+5. If necessary you can make changes to the db with
+`python3.8 manage.py makemigrations`
+`python3.8 manage.py migrate`
+
+
+
+
+
