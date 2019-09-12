@@ -52,3 +52,9 @@ $ Install django==1.11
 11. psycopg2==2.7.6.1
 12. python-decouple==3.1
 13. pytz==2018.7
+
+### Installation
+
+
+
+
