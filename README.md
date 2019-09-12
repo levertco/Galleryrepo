@@ -20,3 +20,10 @@ The user can enlarge the photos and copy the url link for the photo.
 The user can also search for photos in a certian category e.g food.
 The user can also view photos based on the location which the photo was taken.
 
+
+### Tech used
+1. Postgres DB
+2. Python
+3. Django
+4. HTML & CSS
+
