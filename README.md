@@ -54,7 +54,5 @@ $ Install django==1.11
 13. pytz==2018.7
 
 ### Installation
-
-
-
-
+1. To access this application on your command line, you need to clone it 
+`git clone https://github.com/levertco/Galleryrepo.git`
