@@ -78,6 +78,10 @@ No known bugs detected.
 ### Live link
 You can view the live site [here](https://galleryrepo.herokuapp.com/)
 
+### Licence
+
+Copyright (c) 2019 Levert Ouma
+
 
 
 
