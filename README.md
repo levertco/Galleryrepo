@@ -40,15 +40,15 @@ $ Install django==1.11
 ```
 ### Requirements
 1. config==0.4.0
-1. dj-database-url==0.5.0
-1. Django==1.11
-1. django-bootstrap3==11.0.0
-1. django-bootstrap4==0.0.7
-1. django-heroku==0.3.1
-1. gunicorn==19.9.0
-1. Jinja2==2.10
-1. MarkupSafe==1.1.0
-1. Pillow==5.3.0
-1. psycopg2==2.7.6.1
-1. python-decouple==3.1
-1. pytz==2018.7
+2. dj-database-url==0.5.0
+3. Django==1.11
+4. django-bootstrap3==11.0.0
+5. django-bootstrap4==0.0.7
+6. django-heroku==0.3.1
+7. gunicorn==19.9.0
+8. Jinja2==2.10
+9. MarkupSafe==1.1.0
+10. Pillow==5.3.0
+11. psycopg2==2.7.6.1
+12. python-decouple==3.1
+13. pytz==2018.7
