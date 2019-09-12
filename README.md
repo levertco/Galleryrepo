@@ -62,7 +62,5 @@ $ Install django==1.11
 `pip install -r requirements.txt`
 3. Create a .env file
 
-
-
-
-
+4. You can then run the server with:
+`python3.8 manage.py runserver`
