@@ -69,7 +69,8 @@ $ Install django==1.11
 `python3.8 manage.py makemigrations`
 `python3.8 manage.py migrate`
 
+6. You can run tests:
+`python3.8 manage.py test photos`
 
-
-
-
+### Known Bugs
+No known bugs detected.
