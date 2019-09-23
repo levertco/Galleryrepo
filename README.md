@@ -33,7 +33,6 @@ To install these two, you can use the following commands
 ```
 #git
 $ Install git-all
-
 #django
 $ Install django==1.11
 
