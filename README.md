@@ -58,6 +58,7 @@ $ Install django==1.11
 
 2. Create a requirements.txt in the root folder and copy the requirements above then install them with this command.
 `pip install -r requirements.txt`
+
 3. Create a .env file
 
 4. You can then run the server with:
