@@ -27,7 +27,7 @@ The user can also view photos based on the location which the photo was taken.
 3. Django
 4. HTML & CSS
 
-## Set up and Installation/prerequisites
+### Set up and Installation/prerequisites
 The user will require git, django, postgres and python3.6+ installed in their machine.
 To install these two, you can use the following commands
 ```
