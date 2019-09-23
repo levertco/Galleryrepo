@@ -72,7 +72,7 @@ $ Install django==1.11
 `python3.8 manage.py test photos`
 
 ### Known Bugs
-No known bugs detected.
+No known bugs currently detected.
 
 ### Live link
 You can view the live site [here](https://galleryrepo.herokuapp.com/)
